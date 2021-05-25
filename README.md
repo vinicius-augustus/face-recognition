@@ -1,2 +1,2 @@
 # face-recognition
-![facerecognition](https://user-images.githubusercontent.com/82250641/119454665-2a7e2000-bd0f-11eb-8f62-a4d1fc23fc07.jpg)
+![face](https://user-images.githubusercontent.com/82250641/119455734-446c3280-bd10-11eb-98f4-f63ccdf4e409.png)
