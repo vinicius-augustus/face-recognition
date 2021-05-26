@@ -101,3 +101,34 @@ FaceRecognition API is easier to use. It has a much easier architecture to imple
 FaceNet Keras is a one-shot learning model. It fetches 128 vector embeddings as a feature extractor. It is even preferable in cases where we have a scarcity of datasets. It consists of good accuracy even for such situations.
 This will be the model used in this project
 
+## 3. Feature Classification
+Feature classification is a geometry-based or template-based algorithm used to classify the features of the test data among different classes of facial features in the training data. These template-based classifications are possible using various statistical approaches.
+
+The well-known methods used in feature classification can be given as:
+1. Euclidean Distance
+2. Cosine Similarity
+3. SVM
+4. KNN
+5. ANN
+
+**Euclidean Distance**
+
+It is a distance-based feature classification method that calculates the distance between the facial nodes and the face which has the minimum difference between these distance values is considered to be the match. But it is suitable for the datasets having a smaller number of classes and lower dimensionality features.
+
+**Cosine Similarity** 
+
+In cosine similarity, the solution that we obtain after calculating the cosine of an angle is brought into concern. Here, we would compare the differences between these results. The more the value is closer to 1, the greater is the probability of the match. But it may give a false result if the test data features are incomplete (i.e. if the resultant value is 0 then the features don’t match, and if nearly all the features match then the value is 1).
+
+**SVM**
+
+SVM (Support vector machine) creates an optimal hyperplane to classify the classes of training dataset based on the different features of the face. The dimensionality of the hyperplane is one less than the number of features. Different kernels can be applied to see what features are used by the classifier to remove the features if required. This can help to improve speed.
+This will be the method used in this project
+
+
+**KNN** 
+
+KNN (K-Nearest Neighbor) is all about the number of neighbors i.e. the k value. In KNN, if k=3 then we check that the data is close to which 3 data points. Thereafter, it is decided that the majority of closest data points belong to which class. Now, the test data is predicted to be in this class KNN has curse of dimensionality problem which can be solved by applying PCA before using KNN classifier.
+
+**ANN**
+
+ANN (Artificial Neural Network) uses a very detailed algorithm for face recognition. It classifies the local texture using multi-layer perceptron for face alignment. It uses geometric feature based and independent component analysis for feature extraction and multi artificial neural network for feature matching. This is the best method to use.
