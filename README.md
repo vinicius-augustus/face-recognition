@@ -1,4 +1,4 @@
 ![face](https://user-images.githubusercontent.com/82250641/119455734-446c3280-bd10-11eb-98f4-f63ccdf4e409.png)
 
 # Face recognition
-Technology to compare the human face from an image or video frame in a database of faces, normally used to authenticate users through identity verification services, works by identifying and measuring facial characteristics of a given image.
+In May 2018 a 31-year-old man identified as "Mr. Ao" was being sought out by the Chinese Communist Party (CCP) on the charge of having committed "economic crimes", the man was located and arrested in a crowd of 60,000 spectator at a concert by the singer Jacky Cheung from Hong Kong.
