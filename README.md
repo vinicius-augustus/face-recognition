@@ -135,3 +135,13 @@ KNN (K-Nearest Neighbor) is all about the number of neighbors i.e. the k value. 
 **ANN**
 
 ANN (Artificial Neural Network) uses a very detailed algorithm for face recognition. It classifies the local texture using multi-layer perceptron for face alignment. It uses geometric feature based and independent component analysis for feature extraction and multi artificial neural network for feature matching. 
+
+# Resources used
+**Python Version:** 3.8.5
+
+**Packages:** OpenCV, dlib, time, imutils, Scipy, Numpy, Playsound, Matplotlib, Threading 
+
+# References
+**Applying Artificial Neural Networks for Face Recognition:** https://bit.ly/3wCcPEi
+**KNN Classification using Scikit-learn:** https://bit.ly/2QVKcTB
+**Identification (1:N) vs. Verification (1:1) vs. Segmented Identification (1:Few):** https://bit.ly/3wAJR7P
