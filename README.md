@@ -134,4 +134,4 @@ KNN (K-Nearest Neighbor) is all about the number of neighbors i.e. the k value. 
 
 **ANN**
 
-ANN (Artificial Neural Network) uses a very detailed algorithm for face recognition. It classifies the local texture using multi-layer perceptron for face alignment. It uses geometric feature based and independent component analysis for feature extraction and multi artificial neural network for feature matching. This is the best method to use.
+ANN (Artificial Neural Network) uses a very detailed algorithm for face recognition. It classifies the local texture using multi-layer perceptron for face alignment. It uses geometric feature based and independent component analysis for feature extraction and multi artificial neural network for feature matching. 
