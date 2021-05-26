@@ -104,10 +104,10 @@ FaceRecognition API is easier to use. It has a much easier architecture to imple
 FaceNet Keras is a one-shot learning model. It fetches 128 vector embeddings as a feature extractor. It is even preferable in cases where we have a scarcity of datasets. It consists of good accuracy even for such situations.
 This will be the model used in this project
 
-## 3. Feature Classification
-Feature classification is a geometry-based or template-based algorithm used to classify the features of the test data among different classes of facial features in the training data. These template-based classifications are possible using various statistical approaches.
+## 3. Feature Matching
+Feature Matching is a geometry-based or template-based algorithm used to classify the features of the test data among different classes of facial features in the training data. These template-based matchings are possible using various statistical approaches.
 
-The well-known methods used in feature classification can be given as:
+The well-known methods used in feature matching can be given as:
 1. Euclidean Distance
 2. Cosine Similarity
 3. SVM
@@ -116,7 +116,7 @@ The well-known methods used in feature classification can be given as:
 
 **Euclidean Distance**
 
-It is a distance-based feature classification method that calculates the distance between the facial nodes and the face which has the minimum difference between these distance values is considered to be the match. But it is suitable for the datasets having a smaller number of classes and lower dimensionality features.
+It is a distance-based feature matching method that calculates the distance between the facial nodes and the face which has the minimum difference between these distance values is considered to be the match. But it is suitable for the datasets having a smaller number of classes and lower dimensionality features.
 
 **Cosine Similarity** 
 
