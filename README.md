@@ -1,7 +1,10 @@
 # Introduction
-In May 2018 a 31-year-old man identified as "Mr. Ao" was being sought out by the Chinese Communist Party (CCP) on the charge of having committed "economic crimes", the man was located and arrested in a crowd of 60,000 spectator at a concert by the singer Jacky Cheung from Hong Kong.
+In May 2018 a 31-year-old man identified as "Mr. Ao" was being sought out by the Chinese Communist Party (CCP) on the charge of having committed "economic crimes", because of a facial recognition system the man was located and arrested in a crowd of 60,000 spectator at a concert by the singer Jacky Cheung from Hong Kong.
+
+And this repository is about the technology that located "Mr. Ao".
 
 ![recognizer](https://user-images.githubusercontent.com/82250641/119619745-ad1fe180-bdda-11eb-8d2e-e037d1e8a46b.png)
+illustrative photo of a facial recognition system.
 
 # History
 Automated facial recognition was pioneered in the 1960s. Woody Bledsoe, Helen Chan Wolf, and Charles Bisson worked on using the computer to recognize human faces. Their early facial recognition project was called "man-machine" because the coordinates of the facial features in a photograph had to be established by a human before they could be used by the computer for recognition. 
